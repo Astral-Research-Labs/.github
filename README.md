@@ -24,12 +24,13 @@ Our flagship modular Mixture of Experts architecture. It has plug and play capab
 
 
 ### 2. [TonyMoE](https://github.com/black-swas/tonymoe)
-A lightweight implementation of sparse expert layers specifically optimized for edge devices and headless Linux environments.
+A  implementation of sparse expert layers specifically optimized for edge devices and headless Linux environments.
 * **Target Hardware:** Raspberry Pi Zero 2 W / Pi 4 & 5.
 * **Status:** Stable / Optimization Phase.
 
 ### 3. [Research to analayse of connection between hallucination and entropy](https://github.com/black-swas/entropy-as-hallucinogen)
-A work in progress research trying to establish connection between shannon entropy as the reason behind hallucination in models , currently working on a modular tool to run the experiments on as various model families as baseline. Using TruthfulQA as dataset
+
+<p>A work in progress research trying to establish connection between shannon entropy as the reason behind hallucination in models , currently working on a modular tool to run the experiments on as various model families as baseline. Using TruthfulQA as dataset</p>
 ---
 
 ## 📊 Technical Stack
@@ -42,7 +43,7 @@ A work in progress research trying to establish connection between shannon entro
 
 ## 📖 Documentation & Benchmarks
 We believe in rigorous validation. Every project in this lab includes:
-1.  **System Benchmarks:** Real-world performance data across various hardware tiers.
+1.  **Slightweightystem Benchmarks:** Real-world performance data across various hardware tiers.
 2.  **Architecture Diagrams:** Detailed wandb or SVG visualizations of model logic.
 3.  **Deployment Guides:** Full documentation for setup and inference.
 
