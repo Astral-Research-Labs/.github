@@ -28,7 +28,7 @@ A  implementation of sparse expert layers specifically optimized for edge device
 * **Target Hardware:** Raspberry Pi Zero 2 W / Pi 4 & 5.
 * **Status:** Stable / Optimization Phase.
 
-### 3. [Research to analayse of connection between hallucination and entropy](https://github.com/black-swas/entropy-as-hallucinogen)
+### 3. [Research to analayse of connection between hallucination and entropy](https://github.com/black-swas/Entropy-As-Hallucinogen)
 
 <p>A work in progress research trying to establish connection between shannon entropy as the reason behind hallucination in models , currently working on a modular tool to run the experiments on as various model families as baseline. Using TruthfulQA as dataset</p>
 ---
